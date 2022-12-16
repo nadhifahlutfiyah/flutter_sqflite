@@ -1,4 +1,4 @@
-# flutter_widget
+# flutter_sqflite
 
 Nadhifah Lutfiyah Mahmudah
 
